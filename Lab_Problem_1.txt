@@ -1,0 +1,13 @@
+1. Check the version of NodeJS and NPM
+  - node --version
+  - npm --version
+
+2. Create an app.js file with and print something on the console
+  - On the terminal, run:
+    - touch app.js
+  - In the app.js file, write:
+    - console.log("hello world"); this will print out 'hello world'
+
+3. Run the file through the NodeJs executable
+  - On the terminal, run:
+    - node app.js
